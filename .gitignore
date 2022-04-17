@@ -1,5 +1,11 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
+
+# remove oculus
+/Assets/Oculus/
+/Assets/BNG Framework/
+
+
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /[Ll]ibrary/
