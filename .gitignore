@@ -2,8 +2,7 @@
 #
 
 # remove oculus
-/Assets/Oculus/
-/Assets/BNG Framework/
+/[Aa]ssets/[Oo]culus/
 
 
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
